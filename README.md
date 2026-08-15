@@ -21,14 +21,13 @@ B.Tech CSE — AR/VR
 Building immersive experiences with WebXR, Unity & AI
 
 TECH STACK
-Unity • C# • WebXR • Three.js • JavaScript
+Unity • C# • WebXR • Three.js 
 Blender • AR Foundation • OpenXR • MediaPipe
 
 FEATURED PROJECTS
 → WebXR Projects
 → AR Cricket
 → Unity Games
-→ AR College Tour
 
 CURRENTLY
 Learning WebXR + Advanced Unity + AI
