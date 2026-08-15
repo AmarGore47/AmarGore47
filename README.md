@@ -31,7 +31,7 @@ immersive experiences and interactive applications.
 TECH STACK
 
 Unity | C# | WebXR | Three.js
-JavaScript | Blender | AR Foundation
+Blender | AR Foundation
 OpenXR | MediaPipe | Git
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -57,4 +57,4 @@ AI + XR
 ━━━━━━━━━━━━━━━━━━━━
 
 CONNECT
-www.linkedin.com/in/amar-gore-704205320• https://amar-gore-prortfolio.vercel.app/ • goreamar5077@gmail.com
+www.linkedin.com/in/amar-gore-704205320 • https://amar-gore-prortfolio.vercel.app/ • goreamar5077@gmail.com
