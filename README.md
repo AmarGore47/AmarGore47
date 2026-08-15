@@ -34,4 +34,4 @@ CURRENTLY
 Learning WebXR + Advanced Unity + AI
 
 CONNECT
-LinkedIn • Portfolio • Email
+www.linkedin.com/in/amar-gore-704205320• https://amar-gore-prortfolio.vercel.app/ • goreamar5077@gmail.com
