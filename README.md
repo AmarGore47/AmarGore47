@@ -15,22 +15,46 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 AMAR GORE
-XR / AR / VR Developer
+XR DEVELOPER
 
-B.Tech CSE — AR/VR
-Building immersive experiences with WebXR, Unity & AI
+AR/VR • WebXR • Unity • AI • 3D
+
+━━━━━━━━━━━━━━━━━━━━
+
+ABOUT ME
+
+B.Tech CSE (AR/VR) student building
+immersive experiences and interactive applications.
+
+━━━━━━━━━━━━━━━━━━━━
 
 TECH STACK
-Unity • C# • WebXR • Three.js 
-Blender • AR Foundation • OpenXR • MediaPipe
+
+Unity | C# | WebXR | Three.js
+JavaScript | Blender | AR Foundation
+OpenXR | MediaPipe | Git
+
+━━━━━━━━━━━━━━━━━━━━
 
 FEATURED PROJECTS
-→ WebXR Projects
-→ AR Cricket
-→ Unity Games
 
-CURRENTLY
-Learning WebXR + Advanced Unity + AI
+🥽 WebXR Experiences
+🏏 AR Cricket
+🎮 Unity Games
+🌐 Interactive XR Projects
+🤖 AI / Computer Vision
+🎨 Projection Mapping
+
+━━━━━━━━━━━━━━━━━━━━
+
+CURRENTLY LEARNING
+
+WebXR
+Advanced Unity
+AI + XR
+3D Development
+
+━━━━━━━━━━━━━━━━━━━━
 
 CONNECT
 www.linkedin.com/in/amar-gore-704205320• https://amar-gore-prortfolio.vercel.app/ • goreamar5077@gmail.com
